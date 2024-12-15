@@ -1,1 +1,25 @@
-{  "AdsController": {                       "VPN_URL"              : "https://raw.githubusercontent.com/afortnitegenerator/jibekgari/refs/heads/main/vpnController_com.christmaslivewallpaper.countdowntimer.json",                             "select_main_ads": "UNITY",            "select_backup_ads": "UNITY",                                    "main_ads_banner": "",            "backup_ads_banner": "",                                    "main_ads_reward": "",            "backup_ads_reward": "",                                    "main_ads_intertitial": "Interstitial_Android",            "backup_ads_intertitial": "Interstitial_Android",                        "main_ads_native": "",            "backup_ads_native": "",                                     "initialize_sdk": "5376395",            "initialize_sdk_backup_ads": "5376395",                            "interstitial_counter": "0",        "high_paying_keyword_1": "",    "high_paying_keyword_2": "",    "high_paying_keyword_3": "",    "high_paying_keyword_4": "",    "high_paying_keyword_5": "",        "status_app": "0",              "link_redirect": "https://"                      }   }
+{
+    "AdsController": {
+        "VPN_URL": "https://raw.githubusercontent.com/afortnitegenerator/jibekgari/refs/heads/main/vpnController_com.christmaslivewallpaper.countdowntimer.json",
+        "select_main_ads": "UNITY",
+        "select_backup_ads": "UNITY",
+        "main_ads_banner": "",
+        "backup_ads_banner": "",
+        "main_ads_reward": "",
+        "backup_ads_reward": "",
+        "main_ads_intertitial": "Interstitial_Android",
+        "backup_ads_intertitial": "Interstitial_Android",
+        "main_ads_native": "",
+        "backup_ads_native": "",
+        "initialize_sdk": "5376395",
+        "initialize_sdk_backup_ads": "5376395",
+        "interstitial_counter": "0",
+        "high_paying_keyword_1": "",
+        "high_paying_keyword_2": "",
+        "high_paying_keyword_3": "",
+        "high_paying_keyword_4": "",
+        "high_paying_keyword_5": "",
+        "status_app": "0",
+        "link_redirect": "https://"
+    }
+}
